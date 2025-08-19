@@ -1,4 +1,4 @@
-![Goku](CertificatesLeandro/assets/Goku.gif)
+![Goku](assets/Goku.gif)
 
 # 🚀 Leandro Rodrigues Alexandre – Learning & Projects Hub
 
@@ -130,8 +130,8 @@ Each technology studied has its own role and importance:
 ---
 
 ## 🔗 Contact & Projects
-- GitHub: [https://github.com/leandroalexandre](https://github.com/softwareLeandro)  
-- Dev.to: [https://dev.to/leandroalexandre](https://dev.to/cuscodev)  
+- GitHub: [https://github.com/softwareLeandro](https://github.com/softwareLeandro)  
+- Dev.to: [https://dev.to/cuscodev](https://dev.to/cuscodev)  
 - LinkedIn: [Leandro R. Alexandre](https://www.linkedin.com/in/leandro-r-alexandre/)
 
-![Leandro](CertificatesLeandro/assets/LPC.jpeg)
+![Leandro](assets/LPC.jpeg)
