@@ -1,8 +1,4 @@
-# CertificatesLeandro
-Certificates, projects, and resources from my continuous learning in software development.
-
-
-![Top Banner](assets/Goku.gif)
+![Goku](CertificatesLeandro/assets/Goku.gif)
 
 # 🚀 Leandro Rodrigues Alexandre – Learning & Projects Hub
 
@@ -138,4 +134,4 @@ Each technology studied has its own role and importance:
 - Dev.to: [https://dev.to/leandroalexandre](https://dev.to/cuscodev)  
 - LinkedIn: [Leandro R. Alexandre](https://www.linkedin.com/in/leandro-r-alexandre/)
 
-![Bottom Banner](assets/LPC.jpeg)
+![Leandro](CertificatesLeandro/assets/LPC.jpeg)
